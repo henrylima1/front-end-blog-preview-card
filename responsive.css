@@ -1,0 +1,17 @@
+@media (max-width: 360px){
+    body{
+        width: 100%;
+    }
+    main{
+        width: 360px;
+    }
+    .container{
+        width: 90%;
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .container .cape img{
+        width: 70%;
+    }
+}
